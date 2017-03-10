@@ -1,0 +1,3 @@
+#compdef project
+
+_alternative "files:filenames:{_files -/ -W ${zproject_path}}"
